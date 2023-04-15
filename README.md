@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6pcw8933juegotma/branch/main?svg=true)](https://ci.appveyor.com/project/Pr0901/dz2-1/branch/main)
