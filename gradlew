@@ -171,4 +171,4 @@ fi
 
 exec "$JAVACMD" "$@"
 
-chmod +x gradlew
+
